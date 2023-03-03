@@ -6,6 +6,8 @@
 +#+ +#+#+ +#+ +#+     +#+ +#+        +#+        +#+        +#+             +#+    +#+ +#+    +#+ +#+    +#+ 
  #+#+# #+#+#  #+#     #+# #+#        #+#        #+#        #+#             #+#    #+# #+#    #+# #+#    #+# 
   ###   ###   ###     ### ###        ###        ########## ##########      ###    ###  ########  #########  
+  
+  lol just use the loadstring
 --]]
 loadstring(game:HttpGet("https://raw.githubusercontent.com/WaffleManTheGreat/DirtySpoon-FTrident/main/coregui"))()
 
